@@ -1,0 +1,291 @@
+2021-06-27 20:06:653 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-27 20:06:996 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (eff0b6ee5b3a56c16462e14273f5b17b)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-27 20:06:625 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (eff0b6ee5b3a56c16462e14273f5b17b)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-27 20:06:265 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (eff0b6ee5b3a56c16462e14273f5b17b)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-27 20:06:464 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (eff0b6ee5b3a56c16462e14273f5b17b)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-27 20:06:685 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (eff0b6ee5b3a56c16462e14273f5b17b)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-27 20:06:54 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (eff0b6ee5b3a56c16462e14273f5b17b)] -> xpath: //button[@type='submit']]
+2021-06-27 20:06:386 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-27 20:06:771 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (87b606c5666298ef5fc2e3dee0c9f17e)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-27 20:06:36 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (87b606c5666298ef5fc2e3dee0c9f17e)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-27 20:06:544 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (87b606c5666298ef5fc2e3dee0c9f17e)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-27 20:06:731 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (87b606c5666298ef5fc2e3dee0c9f17e)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-27 20:06:924 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (87b606c5666298ef5fc2e3dee0c9f17e)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-27 20:06:139 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (87b606c5666298ef5fc2e3dee0c9f17e)] -> xpath: //button[@type='submit']]
+2021-06-27 21:06:463 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-27 21:06:561 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (2301ba8a2138e4745cfbb3033ada68b1)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-27 21:06:780 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (2301ba8a2138e4745cfbb3033ada68b1)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-27 21:06:371 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (2301ba8a2138e4745cfbb3033ada68b1)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-27 21:06:504 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (2301ba8a2138e4745cfbb3033ada68b1)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-27 21:06:638 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (2301ba8a2138e4745cfbb3033ada68b1)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-27 21:06:808 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (2301ba8a2138e4745cfbb3033ada68b1)] -> xpath: //button[@type='submit']]
+2021-06-28 18:06:40 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 18:06:753 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 18:06:971 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 18:06:230 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 18:06:322 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 18:06:438 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 18:06:607 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //button[@type='submit']]
+2021-06-28 18:06:810 INFO  BankManagerLoginPage :27 - clicking open account tab[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //button[@ng-click='openAccount()']]
+2021-06-28 18:06:121 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 18:06:322 INFO  AddCustomerPage :43 - clicking on currency[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //select[@id = 'currency']][[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //option[text()='Pound']]
+2021-06-28 18:06:491 INFO  AddCustomerPage :48 - clicking on process button[[ChromeDriver: chrome on WINDOWS (936621069be1b651014458c078c89282)] -> xpath: //button[text()='Process']]
+2021-06-28 19:06:119 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:521 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:788 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:769 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:893 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:988 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:206 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:395 INFO  BankManagerLoginPage :27 - clicking open account tab[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //button[@ng-click='openAccount()']]
+2021-06-28 19:06:754 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:956 INFO  AddCustomerPage :43 - clicking on currency[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //select[@id = 'currency']][[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //option[text()='Pound']]
+2021-06-28 19:06:147 INFO  AddCustomerPage :48 - clicking on process button[[ChromeDriver: chrome on WINDOWS (1b78a7eba9740db5065b25b8a455103f)] -> xpath: //button[text()='Process']]
+2021-06-28 19:06:972 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:327 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:530 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:161 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:256 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:378 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:567 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:758 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:852 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:177 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:287 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:306 INFO  CustomersPage :20 - verifying logout tab[[ChromeDriver: chrome on WINDOWS (9fbedb79b3925485a4b681bc23919093)] -> xpath: //button[text()='Logout']]
+2021-06-28 19:06:434 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:574 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:780 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:312 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:408 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:518 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:689 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:862 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:951 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:280 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:391 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:589 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-28 19:06:809 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-28 19:06:887 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //button[text() = 'Deposit']]
+2021-06-28 19:06:905 INFO  AccountPage :57 - verifying deposit successful text[[ChromeDriver: chrome on WINDOWS (6dd1fb9f3301acf026ce1f556916bc7a)] -> xpath: //span[text() = 'Deposit Successful']]
+2021-06-28 19:06:767 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:669 INFO  HomePage :29 - clicking on Bank manager Login tabProxy element for: DefaultElementLocator 'By.xpath: //button[text()='Bank Manager Login']'
+2021-06-28 19:06:729 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:639 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:736 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:845 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:47 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:238 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:330 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:702 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:782 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:113 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-28 19:06:378 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-28 19:06:456 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[text() = 'Deposit']]
+2021-06-28 19:06:533 INFO  AccountPage :64 - clicking withdrawal tab[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[@ng-click = 'withdrawl()']]
+2021-06-28 19:06:598 INFO  AccountPage :70 - entering withdrawl amount[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //input[@ng-model = 'amount']]50
+2021-06-28 19:06:22 INFO  AccountPage :75 - clicking withdrawal Button[[ChromeDriver: chrome on WINDOWS (a90f2fe725003fa89c0a5424e599250e)] -> xpath: //button[text() = 'Withdraw']]
+2021-06-28 19:06:63 INFO  AccountPage :79 - verifying transaction successful textProxy element for: DefaultElementLocator 'By.xpath: //span[text() = 'Transaction successful']'
+2021-06-28 19:06:992 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:166 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (87f95bf059c1be6dca02cef919294d15)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:384 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (87f95bf059c1be6dca02cef919294d15)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:278 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:818 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (9a1ecda58eb698d2eeb04081bb49749c)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:80 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (9a1ecda58eb698d2eeb04081bb49749c)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:71 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:08 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (cd6e3d628594fc88483d813dde48d0cf)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:350 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (cd6e3d628594fc88483d813dde48d0cf)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:566 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:528 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (59f3d050726bcae8d99201dd5e21c41f)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:452 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:615 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:945 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:650 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:761 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:883 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:116 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:305 INFO  BankManagerLoginPage :27 - clicking open account tab[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //button[@ng-click='openAccount()']]
+2021-06-28 19:06:727 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:901 INFO  AddCustomerPage :43 - clicking on currency[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //select[@id = 'currency']][[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //option[text()='Pound']]
+2021-06-28 19:06:88 INFO  AddCustomerPage :48 - clicking on process button[[ChromeDriver: chrome on WINDOWS (f911b36b81883d8db524c29f275c3d44)] -> xpath: //button[text()='Process']]
+2021-06-28 19:06:903 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:773 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:116 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:618 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:712 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:820 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:06 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:223 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:299 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:596 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:692 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:712 INFO  CustomersPage :20 - verifying logout tab[[ChromeDriver: chrome on WINDOWS (f7ee4abcfb6336ca5ddbd14d7f3a5250)] -> xpath: //button[text()='Logout']]
+2021-06-28 19:06:707 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:731 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:931 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:466 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:564 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:688 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:862 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:49 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:138 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:451 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:546 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:731 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-28 19:06:935 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-28 19:06:14 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //button[text() = 'Deposit']]
+2021-06-28 19:06:38 INFO  AccountPage :57 - verifying deposit successful text[[ChromeDriver: chrome on WINDOWS (1d9259e626e7b45bb50385a125c01e1a)] -> xpath: //span[text() = 'Deposit Successful']]
+2021-06-28 19:06:779 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:596 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:782 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:142 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:237 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:331 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:531 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:704 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:810 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:105 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:200 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:526 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-28 19:06:874 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-28 19:06:967 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[text() = 'Deposit']]
+2021-06-28 19:06:43 INFO  AccountPage :64 - clicking withdrawal tab[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[@ng-click = 'withdrawl()']]
+2021-06-28 19:06:106 INFO  AccountPage :70 - entering withdrawl amount[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //input[@ng-model = 'amount']]50
+2021-06-28 19:06:326 INFO  AccountPage :75 - clicking withdrawal Button[[ChromeDriver: chrome on WINDOWS (880c847bde4b22c74f9839e0b5f86327)] -> xpath: //button[text() = 'Withdraw']]
+2021-06-28 19:06:415 INFO  AccountPage :79 - verifying transaction successful textProxy element for: DefaultElementLocator 'By.xpath: //span[text() = 'Transaction successful']'
+2021-06-28 19:06:891 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:923 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:171 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:464 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:561 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:671 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:885 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:72 INFO  BankManagerLoginPage :27 - clicking open account tab[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //button[@ng-click='openAccount()']]
+2021-06-28 19:06:371 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:590 INFO  AddCustomerPage :43 - clicking on currency[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //select[@id = 'currency']][[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //option[text()='Pound']]
+2021-06-28 19:06:761 INFO  AddCustomerPage :48 - clicking on process button[[ChromeDriver: chrome on WINDOWS (08bd4612f50dc495452d593efba06c05)] -> xpath: //button[text()='Process']]
+2021-06-28 19:06:623 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:385 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:726 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:215 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:311 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:419 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:651 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:853 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:931 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:214 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:325 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:353 INFO  CustomersPage :20 - verifying logout tab[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[text()='Logout']]
+2021-06-28 19:06:460 INFO  CustomersPage :27 - clicking logout tab[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //button[text()='Logout']]
+2021-06-28 19:06:480 INFO  CustomersPage :31 - verifying your name text[[ChromeDriver: chrome on WINDOWS (32f8a50d827fbef557178d849376e7aa)] -> xpath: //label[contains(text() , 'Your Name :')]]
+2021-06-28 19:06:237 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:96 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:297 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:765 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:860 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:954 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:159 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:351 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:429 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:723 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:847 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:159 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-28 19:06:499 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-28 19:06:594 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //button[text() = 'Deposit']]
+2021-06-28 19:06:613 INFO  AccountPage :57 - verifying deposit successful text[[ChromeDriver: chrome on WINDOWS (a77f8cb74cff937c5fb38db96a54cc6d)] -> xpath: //span[text() = 'Deposit Successful']]
+2021-06-28 19:06:585 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-28 19:06:482 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-28 19:06:741 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-28 19:06:209 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-28 19:06:305 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-28 19:06:412 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-28 19:06:569 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[@type='submit']]
+2021-06-28 19:06:754 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[text()='Home']]
+2021-06-28 19:06:865 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[text()='Customer Login']]
+2021-06-28 19:06:205 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //select[@id = 'userSelect']]
+2021-06-28 19:06:301 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[text()='Login']]
+2021-06-28 19:06:486 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-28 19:06:767 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-28 19:06:860 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[text() = 'Deposit']]
+2021-06-28 19:06:936 INFO  AccountPage :64 - clicking withdrawal tab[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[@ng-click = 'withdrawl()']]
+2021-06-28 19:06:60 INFO  AccountPage :70 - entering withdrawl amount[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //input[@ng-model = 'amount']]50
+2021-06-28 19:06:145 INFO  AccountPage :75 - clicking withdrawal Button[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //button[text() = 'Withdraw']]
+2021-06-28 19:06:163 INFO  AccountPage :79 - verifying transaction successful text[[ChromeDriver: chrome on WINDOWS (5cfac27019dd7c649344aa37bd2ac88a)] -> xpath: //span[text() = 'Transaction successful']]
+2021-06-30 12:06:978 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:188 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-30 12:06:560 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-30 12:06:865 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-30 12:06:21 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-30 12:06:190 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-30 12:06:440 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //button[@type='submit']]
+2021-06-30 12:06:767 INFO  BankManagerLoginPage :27 - clicking open account tab[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //button[@ng-click='openAccount()']]
+2021-06-30 12:06:397 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //select[@id = 'userSelect']]
+2021-06-30 12:06:663 INFO  AddCustomerPage :43 - clicking on currency[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //select[@id = 'currency']][[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //option[text()='Pound']]
+2021-06-30 12:06:874 INFO  AddCustomerPage :48 - clicking on process button[[ChromeDriver: chrome on WINDOWS (0f3b964f29ac26ecfce1b10bbecafcf8)] -> xpath: //button[text()='Process']]
+2021-06-30 12:06:167 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:608 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-30 12:06:82 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-30 12:06:683 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-30 12:06:835 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-30 12:06:02 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-30 12:06:251 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[@type='submit']]
+2021-06-30 12:06:519 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[text()='Home']]
+2021-06-30 12:06:649 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[text()='Customer Login']]
+2021-06-30 12:06:16 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //select[@id = 'userSelect']]
+2021-06-30 12:06:158 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[text()='Login']]
+2021-06-30 12:06:194 INFO  CustomersPage :20 - verifying logout tab[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[text()='Logout']]
+2021-06-30 12:06:331 INFO  CustomersPage :27 - clicking logout tab[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //button[text()='Logout']]
+2021-06-30 12:06:365 INFO  CustomersPage :31 - verifying your name text[[ChromeDriver: chrome on WINDOWS (15c2b66cbdbd565e9b5931ae3c79f45b)] -> xpath: //label[contains(text() , 'Your Name :')]]
+2021-06-30 12:06:347 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:20 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-30 12:06:268 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-30 12:06:698 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-30 12:06:867 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-30 12:06:26 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-30 12:06:303 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[@type='submit']]
+2021-06-30 12:06:586 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[text()='Home']]
+2021-06-30 12:06:716 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[text()='Customer Login']]
+2021-06-30 12:06:233 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //select[@id = 'userSelect']]
+2021-06-30 12:06:362 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[text()='Login']]
+2021-06-30 12:06:638 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-30 12:06:895 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-30 12:06:08 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //button[text() = 'Deposit']]
+2021-06-30 12:06:42 INFO  AccountPage :57 - verifying deposit successful text[[ChromeDriver: chrome on WINDOWS (f249c97b6218bf248e8ab6c7b200f8b3)] -> xpath: //span[text() = 'Deposit Successful']]
+2021-06-30 12:06:943 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:274 INFO  HomePage :29 - clicking on Bank manager Login tab[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[text()='Bank Manager Login']]
+2021-06-30 12:06:812 INFO  BankManagerLoginPage :22 - clicking on add customer tab[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[@ng-click='addCust()']]
+2021-06-30 12:06:281 INFO  AddCustomerPage :34 - Enter first name[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2021-06-30 12:06:456 INFO  AddCustomerPage :39 - Enter last name[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //input[@placeholder='Last Name']]
+2021-06-30 12:06:638 INFO  AddCustomerPage :44 - Enter postcode[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: 
+//body[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2021-06-30 12:06:898 INFO  AddCustomerPage :49 - clicking add customer button[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[@type='submit']]
+2021-06-30 12:06:159 INFO  HomePage :34 - clicking on home tab[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[text()='Home']]
+2021-06-30 12:06:369 INFO  HomePage :24 - clicking on customerLogin tab[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[text()='Customer Login']]
+2021-06-30 12:06:750 INFO  AddCustomerPage :37 - clicking on customer name[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //option[text()='Harry Potter']][[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //select[@id = 'userSelect']]
+2021-06-30 12:06:870 INFO  CustomerLoginPage :30 - Clicking oN login BUTTON[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[text()='Login']]
+2021-06-30 12:06:119 INFO  AccountPage :41 - clicking on deposit tab  [[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[@ng-click = 'deposit()']]
+2021-06-30 12:06:355 INFO  AccountPage :46 - entering deposit amount[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //input[@ng-model = 'amount']]100
+2021-06-30 12:06:494 INFO  AccountPage :51 - clicking deposit button[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[text() = 'Deposit']]
+2021-06-30 12:06:617 INFO  AccountPage :64 - clicking withdrawal tab[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[@ng-click = 'withdrawl()']]
+2021-06-30 12:06:745 INFO  AccountPage :70 - entering withdrawl amount[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //input[@ng-model = 'amount']]50
+2021-06-30 12:06:868 INFO  AccountPage :75 - clicking withdrawal Button[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //button[text() = 'Withdraw']]
+2021-06-30 12:06:902 INFO  AccountPage :79 - verifying transaction successful text[[ChromeDriver: chrome on WINDOWS (aed8568faad7cfd906565583c1b30af2)] -> xpath: //span[text() = 'Transaction successful']]
